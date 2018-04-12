@@ -2,7 +2,7 @@
 
 TMP_FOLDER=$(mktemp -d)
 CONFIG_FILE='platopay.conf'
-CONFIGFOLDER='/root/.platopay'
+CONFIGFOLDER='/root/.platopaycore'
 COIN_DAEMON='platopayd'
 COIN_CLI='platopay-cli'
 COIN_PATH='/usr/local/bin/'
